@@ -1,5 +1,5 @@
 function arrayToString(array) {
-  let convertedArrayToString = '';
+  let convertedArrayToString = '';                  // join? toString()? array length compare && each elem
   for (let i = 0; i < array.length; i++) {
     return convertedArrayToString += array[i];
   }
